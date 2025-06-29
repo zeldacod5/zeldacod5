@@ -1,9 +1,10 @@
 # :handshake: Hi , I'm Loucash :sauna_man:
 
-- :frog: I'm interested about nothing. 
+- :frog: 
 - :robot: I'm currently learning SAP/ABAP.
 - :handshake: I'm looking to collaborate on website/application creation project. 
-- :musical_note: I love listening Sameer Ahmad.
+- :heart: I love :musical_score::croissant::dancer::skier:
+- :broken_heart: I hate :spider::cop::shopping_cart:
 - :ok_man: I'm passionate about politics and governance.
 - :raising_hand_man:
 
