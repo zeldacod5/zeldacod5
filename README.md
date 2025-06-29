@@ -7,10 +7,6 @@
 - :ok_man: I'm passionate about politics and governance.
 - :raising_hand_man:
 
-
-# :roll_eyes: 
-# :raised_eyebrow:
-
 <!--
 **zeldacod5/zeldacod5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
