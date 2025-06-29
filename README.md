@@ -1,4 +1,4 @@
-#  Hi , I'm Loucash :sauna_man:
+# :handshake: Hi , I'm Loucash :sauna_man:
 
 - :frog: I'm interested about nothing. 
 - :robot: I'm currently learning SAP/ABAP.
