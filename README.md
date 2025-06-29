@@ -5,7 +5,7 @@
 - :handshake: I'm looking to collaborate on website/application creation project. 
 - :heart: I love :musical_score::croissant::dancer::skier:
 - :broken_heart: I hate :spider::cop::shopping_cart:
-- :ok_man: I'm passionate about politics and governance.
+- :ok_man: I'm passionate about politics and history, computers and coding.
 - :raising_hand_man:
 
 <!--
