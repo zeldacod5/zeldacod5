@@ -1,6 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=38ef7d&height=80&section=header&stroke=0d3b2e&animation=twinkling"/>
 <div align="center">
-✨ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ✨
   
 [![GitHub](https://img.shields.io/badge/GitHub-zeldacod5-0d3b2e?style=for-the-badge&logo=github&logoColor=38ef7d)](https://github.com/zeldacod5)
 
