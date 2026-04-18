@@ -1,5 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=38ef7d&height=80&section=header&stroke=0d3b2e&animation=twinkling"/>
 <div align="center">
+✨ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ✨
   
 [![GitHub](https://img.shields.io/badge/GitHub-zeldacod5-0d3b2e?style=for-the-badge&logo=github&logoColor=38ef7d)](https://github.com/zeldacod5)
 
@@ -43,7 +44,7 @@ Iliade_Consulting        : employed since 1 April 2025
 ---
 <br>
 <div align="center">
-  
+✨ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ✨
 <a href="https://www.sap.com/france/index.html" target="_blank">
   <img src="https://img.shields.io/badge/SAP-003366?style=for-the-badge&logo=sap&logoColor=white" />
 </a>
