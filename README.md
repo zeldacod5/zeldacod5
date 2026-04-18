@@ -44,6 +44,7 @@ Iliade_Consulting        : employed since 1 April 2025
 <br>
 <div align="center">
 ✨ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ✨
+  <br>
 <a href="https://www.sap.com/france/index.html" target="_blank">
   <img src="https://img.shields.io/badge/SAP-003366?style=for-the-badge&logo=sap&logoColor=white" />
 </a>
