@@ -69,6 +69,6 @@ Iliade_Consulting        : employed since 1 April 2025
 
 
 <br/>
-✨ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ✨
+✨ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ✨
 </div>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=38ef7d&height=80&section=footer&stroke=0d3b2e&animation=twinkling"/>
