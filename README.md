@@ -10,7 +10,8 @@
 &nbsp;
 <img src="https://img.shields.io/badge/🤝_Open_to-Collaborations-1a5c3a?style=flat-square"/>
 
-    ✨ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ✨
+✨ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ✨
+    
 </div>
 
 ---
