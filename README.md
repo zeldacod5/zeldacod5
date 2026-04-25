@@ -9,6 +9,8 @@
 <img src="https://img.shields.io/badge/⚡_Status-Employed-38ef7d?style=flat-square&labelColor=0d3b2e"/>
 &nbsp;
 <img src="https://img.shields.io/badge/🤝_Open_to-Collaborations-1a5c3a?style=flat-square"/>
+
+  ✨ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ✨
 </div>
 
 ---
@@ -23,7 +25,6 @@ status     : Employed
 passions   : [ politics, history, computers, coding, crypto markets ]
 languages:   [ French, English, Spanish ]
 outside    : [ music, skiing, dance, pastries ]
-dislikes   : [ spiders, shopping, cops ]
 dislikes   : [ spiders, shopping, cops ]
 building   : websites, applications & tools that actually matter
 philosophy : "C'est de dormir toute sa vie que de croire en ses rêves."
